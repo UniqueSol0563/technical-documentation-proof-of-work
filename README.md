@@ -1,8 +1,8 @@
 
 # Technical Documentation Proof of Work
 
-**Version:** v0.1  
-**Last Updated:** August 12, 2026
+**Version:** v0.2  
+**Last Updated:** August 15, 2026
 
 ## Overview
 
@@ -29,7 +29,7 @@ The work presented in this repository demonstrates how I:
 
 ### POW_001 — Opportunity Search and Qualification Workflow
 
-**Status:** In development
+**Status:** Published — v0.1 public package complete
 
 A human-governed, AI-assisted workflow for capturing fragmented opportunity information, organizing requirements, supporting qualification decisions, preserving context, and tracking approved next actions.
 
@@ -42,6 +42,14 @@ The project demonstrates:
 - Cybersecurity-aware information handling
 - Controlled disclosure
 - Feedback and continuous improvement
+
+  **Project documents:**
+
+1. [01 — Project Overview](POW_001_Opportunity_Search_and_Qualification_Workflow/01_Project_Overview.md)
+2. [02 — Public Workflow](POW_001_Opportunity_Search_and_Qualification_Workflow/02_Public_Workflow.md)
+3. [03 — Sanitized Search Example](POW_001_Opportunity_Search_and_Qualification_Workflow/03_Sanitized_Search_Example.md)
+4. [04 — Qualification Matrix](POW_001_Opportunity_Search_and_Qualification_Workflow/04_Qualification_Matrix.md)
+5. [05 — Project Results and Lessons](POW_001_Opportunity_Search_and_Qualification_Workflow/05_Project_Results_and_Lessons.md)
 
 ## Disclosure Boundary
 
@@ -59,3 +67,5 @@ Business inquiries: document.ops333@gmail.com
 ## Revision History
 
 - **v0.1 — August 12, 2026:** Initial public repository introduction.
+
+- **v0.2 — August 15, 2026:** Published the POW_001 v0.1 package and added direct project-document links.
