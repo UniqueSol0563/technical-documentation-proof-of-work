@@ -47,12 +47,12 @@ The project demonstrates:
 
   **Project documents:**
 
-1. [01 — Project Overview](POW_001_Opportunity_Search_and_Qualification_Workflow/01_Project_Overview.md)
-2. [02 — Public Workflow](POW_001_Opportunity_Search_and_Qualification_Workflow/02_Public_Workflow.md)
-3. [03 — Sanitized Search Example](POW_001_Opportunity_Search_and_Qualification_Workflow/03_Sanitized_Search_Example.md)
-4. [04 — Qualification Matrix](POW_001_Opportunity_Search_and_Qualification_Workflow/04_Qualification_Matrix.md)
-5. [05 — Project Results and Lessons](POW_001_Opportunity_Search_and_Qualification_Workflow/05_Project_Results_and_Lessons.md)
-6. [06 — Professional Application and Transfer Value](POW_001_Opportunity_Search_and_Qualification_Workflow/06_Professional_Application_and_Transfer_Value.md)
+1. [01 — Project Overview](01_Project_Overview.md)
+2. [02 — Public Workflow](02_Public_Workflow.md)
+3. [03 — Sanitized Search Example](03_Sanitized_Search_Example.md)
+4. [04 — Qualification Matrix](04_Qualification_Matrix.md)
+5. [05 — Project Results and Lessons](05_Project_Results_and_Lessons.md)
+6. [06 — Professional Application and Transfer Value](06_Professional_Application_and_Transfer_Value.md)
 
 ## Disclosure Boundary
 
