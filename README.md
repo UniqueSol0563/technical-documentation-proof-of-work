@@ -1,8 +1,8 @@
 
 # Technical Documentation Proof of Work
 
-**Version:** v0.2  
-**Last Updated:** August 15, 2026
+**Version:** v0.3
+**Last Updated:** September 10, 2026
 
 ## Overview
 
@@ -49,7 +49,33 @@ The project demonstrates:
 2. [02 — Public Workflow](POW_001_Opportunity_Search_and_Qualification_Workflow/02_Public_Workflow.md)
 3. [03 — Sanitized Search Example](POW_001_Opportunity_Search_and_Qualification_Workflow/03_Sanitized_Search_Example.md)
 4. [04 — Qualification Matrix](POW_001_Opportunity_Search_and_Qualification_Workflow/04_Qualification_Matrix.md)
-5. [05 — Project Results and Lessons](POW_001_Opportunity_Search_and_Qualification_Workflow/05_Project_Results_and_Lessons.md)
+5. [05 — Project Results and Lessons](POW_001_Opportunity_Search_and_Qualification_Workflow/05_Project_Results_and_Lessons.md) 
+### POW_007 — AI Response Evaluation and Reliability
+
+**Status:** Complete — v0.1 public package
+
+A structured, human-reviewed proof-of-work demonstrating how AI-generated responses can be evaluated for intent alignment, instruction compliance, reliability, usability, uncertainty, risk, and verification needs.
+
+The project demonstrates:
+
+- AI response evaluation
+- Systems analysis
+- Human-in-the-loop review
+- Technical documentation
+- Quality and reliability assessment
+- Process improvement
+- Critical reasoning
+- Controlled disclosure
+- Decision traceability
+
+**Project documents:**
+
+1. [01 — Project Overview](POW_007_AI_Response_Evaluation_and_Reliability/01_Project_Overview.md)
+2. [02 — Public Workflow](POW_007_AI_Response_Evaluation_and_Reliability/02_Public_Workflow.md)
+3. [03 — Sanitized Evaluation Example](POW_007_AI_Response_Evaluation_and_Reliability/03_Sanitized_Evaluation_Example.md)
+4. [04 — Evaluation Matrix](POW_007_AI_Response_Evaluation_and_Reliability/04_Evaluation_Matrix.md)
+5. [05 — Project Results and Lessons](POW_007_AI_Response_Evaluation_and_Reliability/05_Project_Results_and_Lessons.md)
+6. [06 — Professional Application and Transfer Value](POW_007_AI_Response_Evaluation_and_Reliability/06_Professional_Application_and_Transfer_Value.md)
 
 ## Disclosure Boundary
 
@@ -69,3 +95,5 @@ Business inquiries: document.ops333@gmail.com
 - **v0.1 — August 12, 2026:** Initial public repository introduction.
 
 - **v0.2 — August 15, 2026:** Published the POW_001 v0.1 package and added direct project-document links.
+
+- **v0.3 — September 10, 2026:** Published POW_007 AI Response Evaluation and Reliability v0.1 and added direct project navigation.
