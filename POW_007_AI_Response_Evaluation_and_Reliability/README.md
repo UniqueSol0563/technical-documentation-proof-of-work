@@ -22,12 +22,12 @@ The project focuses on identifying where an AI response may sound correct but st
 
 ## Public Project Structure
 
-1. `01_Project_Overview.md`
-2. `02_Public_Workflow.md`
-3. `03_Sanitized_Evaluation_Example.md`
-4. `04_Evaluation_Matrix.md`
-5. `05_Project_Results_and_Lessons.md`
-6. `06_Professional_Application_and_Transfer_Value.md`
+1. [Project Overview](01_Project_Overview.md)
+2. [Public Workflow](02_Public_Workflow.md)
+3. [Sanitized Evaluation Example](03_Sanitized_Evaluation_Example.md)
+4. [Evaluation Matrix](04_Evaluation_Matrix.md)
+5. [Project Results and Lessons](05_Project_Results_and_Lessons.md)
+6. [Professional Application and Transfer Value](06_Professional_Application_and_Transfer_Value.md)
 
 ## Disclosure Boundary
 
